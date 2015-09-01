@@ -1,6 +1,6 @@
 {
   "name": "mocrah",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test helpers to allow mocha, react and react router play nice",
   "main": "index.js",
   "repository": {
